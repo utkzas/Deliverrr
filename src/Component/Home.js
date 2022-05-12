@@ -247,7 +247,11 @@ const Home = () => {
       <>
         <Grid container>
           <Grid xs={12}>
-            <h3>Live Ordering System</h3>
+            <h3>Realtime Food Delivery Algorithm</h3>
+            <h4>Using Graphs to manage Food Delivery efficiently</h4>
+            <h4><a href="https://github.com/utkzas" rel="noreferrer">
+            © Utkarsh Sharma
+  </a></h4>
           </Grid>
         </Grid>
         <Grid container>
